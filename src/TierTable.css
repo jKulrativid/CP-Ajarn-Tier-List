@@ -1,0 +1,36 @@
+.row {
+  width: 900px;
+  height: 120px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+}
+
+.label {
+  width: 120px;
+  height: 120px;
+  font-size: 35px;
+  text-align: center;
+  font-weight: 800;
+  line-height: 120px;
+  margin: 5px;
+}
+
+.container {
+  width: 800px;
+  background-color: rgb(35, 28, 27);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 5px;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}

@@ -1,0 +1,14 @@
+.header .text {
+	font-family: cursive;
+	font-size: 85px;
+	color: darkkhaki;
+	font-weight: 1000;
+	-webkit-text-stroke-width: 5px;
+  	-webkit-text-stroke-color: black;
+}
+
+.header {
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
